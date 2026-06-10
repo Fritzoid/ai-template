@@ -1,3 +1,4 @@
+- Dont ever guess anything. Check facts ALWAYS.
 - Think before coding.
 - Don't assume.
 - Don't hide confusion.
